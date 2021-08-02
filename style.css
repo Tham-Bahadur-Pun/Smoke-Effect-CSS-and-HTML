@@ -21,6 +21,8 @@ section{
 section h2{
   color:#fff;
   font-size: 5rem;
+  z-index: 1;
+  mix-blend-mode: overlay;
 }
 section video{
   position: absolute;
